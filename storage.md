@@ -10,3 +10,24 @@ La red interna de TechSolutions Inc. presenta varias vulnerabilidades críticas 
 
 ---
 
+## 🛡️ Propuesta: Implementación de UFW (Uncomplicated Firewall)
+
+**UFW** es una herramienta de configuración de firewall para sistemas Linux basada en `iptables`, diseñada para facilitar la administración de reglas de red.
+
+### ✅ Ventajas de UFW
+
+- Interfaz sencilla para usuarios y administradores.
+- Permite definir reglas específicas por IP, puerto y protocolo.
+- Compatible con scripts de automatización y monitoreo.
+
+---
+
+## ⚙️ Pasos para Implementar UFW
+
+### 1. **Instalación y activación**
+
+```bash
+sudo apt update
+sudo apt install ufw
+sudo ufw enable
+
