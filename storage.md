@@ -1,4 +1,4 @@
-**Solución para el Almacenamiento (storage.md)**
+#**Solución para el Almacenamiento (storage.md)**
 
 **Problema:** Justifiquen por qué los fallos de disco son críticos para la continuidad del negocio.
 
